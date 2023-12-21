@@ -1,0 +1,38 @@
+Insights:
+1. 16 Unique categories: animals
+- science
+- healthy eating
+- technology
+- food
+- culture
+- travel
+- cooking
+- soccer
+- education
+- fitness
+- studying
+- dogs
+- tennis
+- eganism
+- public speaking
+
+2.1897 Reactions to "animal" posts:
+this indicates that animal category is the popular category that people like to post, share or react.
+
+3. January is the month with most posts: 
+This could be good insight when social buzz want to held an event or agenda that need to attract people then January is the perfect month.
+[add hist] 
+
+Top 5 Categories by Agregate 'Popularity Score':
+[add hist]
+This is based on acumulative score each category and the score comes from people sentiment to the content. Animal is the first, science, healthy eating, technology and the last is food which is food and healthy eating are similiar category as well science and technology. From all of those categories means that people or user in social buzz really enjoy real-life and factual content the most.
+
+Popularity Percentage Share From Top 5 Categories
+[add pie chart]
+Based on pie chart above animal is the most category that people like to share, about 21%, then science, healthy eating and technology, about 20%. The last is food, about 19%. If we can see that food is a common theme with healthy eating as the most popular category so Social buzz may take a part in promoting healthy eating as a new lifestyle to engage more people or new user in social buzz itself by collaborating with healthy eating brand.
+
+
+
+
+
+	
